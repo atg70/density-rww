@@ -11,7 +11,7 @@ Our model is trained on the LEN dataset, available [here](https://erdemub.github
 ## Environmental setup
 
 To install the required packages, use the following command:
-```
+```sh
 pip install -r requirements.txt
 ```
 
