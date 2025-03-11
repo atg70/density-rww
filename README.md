@@ -11,9 +11,17 @@ Our model is trained on the LEN dataset, available [here](https://erdemub.github
 ## Environmental setup
 
 To install the required packages, use the following command:
-```sh
+```
 pip install -r requirements.txt
 ```
+
+## Obtaining random weighted walks
+
+An example script to obtain the embeddings from the random weighted walk is given below. In this example, we use degree based random weighted walk and set the threshold to 0.5.
+```
+python3 ../kcore_rww.py --path ./all_graphs --graphId 1 --pick degree --comp 0.5
+```
+We provide a bash script for each density metric: [degree](), [core]() and [truss](). The file is called `gen_rww.sh`.
 
 ## References
 Sariyüce, A. E., Seshadhri, C., Pinar, A., & Çatalyürek, Ü. V. (2017). Nucleus decompositions for identifying hierarchy of dense subgraphs. ACM Transactions on the Web (TWEB), 11(3), 1-27.
