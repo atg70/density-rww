@@ -1,4 +1,4 @@
-# DECODE: Density-aware Walks for Coordinated Campaign Detection
+# DECODE: DEnsity-aware Walks for COordinated Campaign DEtection
 
 ## Overview
 
