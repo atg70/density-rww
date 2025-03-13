@@ -1,4 +1,4 @@
-# DAWN: Density-aware Walks for Detecting Coordinated Campaigns in Engagement Networks
+# DECODE: Density-aware Walks for Coordinated Campaign Detection
 
 ## Overview
 
