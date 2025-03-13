@@ -1,4 +1,4 @@
-# DAWN: Density-aware Walks for Detecting Ephemeral Astroturfing in Engagement Networks
+# DAWN: Density-aware Walks for Detecting Coordinated Campaigns in Engagement Networks
 
 ## Overview
 
